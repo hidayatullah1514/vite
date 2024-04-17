@@ -5,7 +5,7 @@
       Hi, My Name Is Muhammad Hidayatullah Bin Abas
     </h1>
     <p class="text-sm md:text-base">
-      A student from DWDT08 who have a lot of datelines waiting for him
+      A student 
     </p>
      </div>
      <div class="container mx-auto px-4 flex flex-col md:flex-row items-start">
